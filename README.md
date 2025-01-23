@@ -1,1 +1,1 @@
-# week-one
+Solar power generation is the process of harnessing energy from the sun and converting it into usable electricity. This is achieved primarily through photovoltaic technology or concentrated solar power systems. As an engineering student, understanding the various technologies, their components, and the principles behind solar energy conversion is key to grasping the potential and limitations of solar power.
